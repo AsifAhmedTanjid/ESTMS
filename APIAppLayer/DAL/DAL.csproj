@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="EF\ESTMSContext.cs" />
+    <Compile Include="EF\Models\Player.cs" />
     <Compile Include="EF\Models\User.cs" />
     <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
@@ -68,8 +69,13 @@
     <Compile Include="Migrations\202312300032050_usertableforid.designer.cs">
       <DependentUpon>202312300032050_usertableforid.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202312301946592_playertableupdate.cs" />
+    <Compile Include="Migrations\202312301946592_playertableupdate.designer.cs">
+      <DependentUpon>202312301946592_playertableupdate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\PlayerRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
@@ -86,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202312300032050_usertableforid.resx">
       <DependentUpon>202312300032050_usertableforid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202312301946592_playertableupdate.resx">
+      <DependentUpon>202312301946592_playertableupdate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -10,6 +10,7 @@ namespace DAL.EF
 {
     internal class ESTMSContext : DbContext
     {
-        public DbSet<User> Users { get; set; }  
+        public DbSet<User> Users { get; set; }
+        public DbSet<Player> Players { get; set; }
     }
 }

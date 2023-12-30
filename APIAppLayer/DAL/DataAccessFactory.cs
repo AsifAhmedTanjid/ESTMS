@@ -19,6 +19,10 @@ namespace DAL
         {
             return new UserRepo();
         }
+        public static IRepo<Player, int, Player> PlayerData()
+        {
+            return new PlayerRepo();
+        }
 
     }
 }

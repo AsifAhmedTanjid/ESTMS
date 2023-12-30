@@ -12,3 +12,17 @@ D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\DAL.dll.config
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\AutoMapper.xml
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\EntityFramework.dll
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\EntityFramework.xml
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\BLL.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\BLL.pdb
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\AutoMapper.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\DAL.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\EntityFramework.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\DAL.pdb
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\DAL.dll.config
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\AutoMapper.xml
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\bin\Debug\EntityFramework.xml
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.pdb

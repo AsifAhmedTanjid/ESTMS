@@ -14,3 +14,20 @@ D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.userT
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.userTableUpdated.resources
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.usertableforid.resources
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.userTableAdded.resources
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.userTableUpdated.resources
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.usertableforid.resources
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.pdb
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\bin\Debug\DAL.dll.config
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\bin\Debug\DAL.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\bin\Debug\DAL.pdb
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.xml
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\AIUB\ESTMS\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.playertableupdate.resources

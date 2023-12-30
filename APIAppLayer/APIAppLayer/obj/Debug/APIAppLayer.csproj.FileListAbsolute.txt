@@ -67,3 +67,12 @@ D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\obj\Debug\APIAppLayer.
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\obj\Debug\APIAppLayer.csproj.CopyComplete
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\obj\Debug\APIAppLayer.dll
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\obj\Debug\APIAppLayer.pdb
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\EntityFramework.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\EntityFramework.SqlServer.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\EntityFramework.xml
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\EntityFramework.SqlServer.xml
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\DAL.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\AutoMapper.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\DAL.pdb
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\DAL.dll.config
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\APIAppLayer\bin\AutoMapper.xml

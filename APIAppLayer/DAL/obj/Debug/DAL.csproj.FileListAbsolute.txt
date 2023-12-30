@@ -4,3 +4,13 @@ D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.AssemblyR
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.dll
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.pdb
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\bin\Debug\DAL.dll.config
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.xml
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.userTableAdded.resources
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.userTableUpdated.resources
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\DAL\obj\Debug\DAL.Migrations.usertableforid.resources

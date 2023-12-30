@@ -7,3 +7,8 @@ D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.csproj.CoreCompi
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.dll
 D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\obj\Debug\BLL.pdb
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\AutoMapper.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\DAL.dll.config
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\AutoMapper.xml
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\EntityFramework.dll
+D:\AIUB COURSE NOTES\SEM 10\ESTMS\APIAppLayer\BLL\bin\Debug\EntityFramework.xml

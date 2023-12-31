@@ -12,5 +12,7 @@ namespace DAL.EF
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Player> Players { get; set; }
+        public DbSet<Organizer> Organizers { get; set; }
+        public DbSet<Sponsor> Sponsors { get; set; }
     }
 }
